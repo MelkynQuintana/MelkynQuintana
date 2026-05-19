@@ -36,7 +36,7 @@ Courses: Computational Methods · Modern Cosmology · Astrostatistics · Quantum
 
 ## Featured Projects
 
-### [Hubble Tension — SNe Ia Systematic Uncertainties](./sne-ia-hubble-tension)
+### [Hubble Tension — SNe Ia Systematic Uncertainties](./undergraduate_thesis)
 *B.Sc. Thesis — University of Antioquia, 2026*
 
 Characterized systematic uncertainties in the **DES5yr** and **Pantheon+** Type Ia Supernovae datasets and analyzed their impact on cosmological constraints (H₀, Ωₘ) under a flat ΛCDM model. Used MCMC sampling via `emcee` to compare SALT2 vs. SALT3 light-curve models and identify color-parameter offsets driving discrepancies between both surveys.
