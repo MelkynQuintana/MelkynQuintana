@@ -1,14 +1,21 @@
-# Hi, I'm Melkyn Quintana 👋🔭
+# Hi, I'm Melkyn
 
 > *Astronomer | Data Analyst | Python Developer — Medellín, Colombia*
 
 I'm an astronomy graduate from the **University of Antioquia** with a strong foundation in mathematics, physics, statistics, and scientific computing. My research focuses on **cosmological parameter estimation** using Type Ia Supernovae data — specifically exploring the Hubble tension through Bayesian inference and MCMC methods.
 
-I'm passionate about understanding the large-scale structure of the universe, and I love building tools that make data tell better stories.
+I'm passionate about understanding the large-scale structure of the universe, and how the data can reveal so much information both in science and in matters of daily life.
 
 ---
 
-## 🚀 What I Work With
+## Education
+
+**B.Sc. in Astronomy** — Universidad de Antioquia *(2019 – 2026)*
+Courses: Computational Methods · Modern Cosmology · Astrostatistics · Quantum Mechanics · Relativity & Gravitation · Galactic & Extragalactic Astrophysics
+
+---
+
+## Tools
 
 **Languages**
 `Python` `C` `SQL` `Bash` `JavaScript`
@@ -27,9 +34,9 @@ I'm passionate about understanding the large-scale structure of the universe, an
 
 ---
 
-## 🌌 Featured Projects
+## Featured Projects
 
-### 📡 [Hubble Tension — SNe Ia Systematic Uncertainties](./sne-ia-hubble-tension)
+### [Hubble Tension — SNe Ia Systematic Uncertainties](./sne-ia-hubble-tension)
 *B.Sc. Thesis — University of Antioquia, 2026*
 
 Characterized systematic uncertainties in the **DES5yr** and **Pantheon+** Type Ia Supernovae datasets and analyzed their impact on cosmological constraints (H₀, Ωₘ) under a flat ΛCDM model. Used MCMC sampling via `emcee` to compare SALT2 vs. SALT3 light-curve models and identify color-parameter offsets driving discrepancies between both surveys.
@@ -38,19 +45,12 @@ Characterized systematic uncertainties in the **DES5yr** and **Pantheon+** Type 
 
 ---
 
-## 🎓 Education
-
-**B.Sc. in Astronomy** — Universidad de Antioquia *(2019 – 2026)*
-Courses: Computational Methods · Modern Cosmology · Astrostatistics · Quantum Mechanics · Relativity & Gravitation · Galactic & Extragalactic Astrophysics
-
----
-
-### 📊 Data Analysis Projects *(coming soon)*
+### Data Analysis Projects *(coming soon)*
 Projects from the **Talento Tech Advanced Data Analysis Bootcamp** (Ministry of ICT Colombia, 159 hrs) — covering ETL pipelines, statistical modeling, and interactive dashboards.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certificate | Institution | Hours |
 |---|---|---|
