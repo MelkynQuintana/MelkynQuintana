@@ -59,15 +59,3 @@ Projects from the **Talento Tech Advanced Data Analysis Bootcamp** (Ministry of 
 | Python for Everybody (Specialization) | Coursera / Univ. of Michigan | 80 hrs |
 | Introduction to Python Programming | Coursera / Univ. of Pennsylvania | 20 hrs |
 | Data Analysis Using Python | Coursera / Univ. of Pennsylvania | 20 hrs |
-
----
-
-## 📫 Get in Touch
-
-[![Email](https://img.shields.io/badge/Email-melkyn.quintana@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:melkyn.quintana@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MelkynQuintana-181717?style=flat&logo=github&logoColor=white)](https://github.com/MelkynQuintana)
-[![Phone](https://img.shields.io/badge/WhatsApp-+57_321_996_4364-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573219964364)
-
----
-
-*"The universe is under no obligation to make sense to you." — Neil deGrasse Tyson*
